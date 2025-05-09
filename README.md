@@ -19,6 +19,6 @@ I'm a passionate software developer with experience in javascript. I value tackl
 ## Get in Touch 📬
 
 - **[LinkedIn]**(www.linkedin.com/in/stephen-chege-907719288)
-- **[Twitter]**(your_twitter_profile_link)
+- **[Twitter]**([your_twitter_profile_link](https://x.com/_gn1L_D))
 
 
