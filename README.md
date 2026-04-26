@@ -18,7 +18,7 @@ I'm a passionate software developer with experience in javascript. I value tackl
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(www.linkedin.com/in/stephen-mugo-907719288)
+- **[LinkedIn]**(www.linkedin.com/in/stephen-mugo)
 - **[Twitter]**(https://x.com/_gn1L_D)
 
 
